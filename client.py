@@ -1,3 +1,5 @@
+# First Step: Basic HTTP Client to MCP Server
+
 # import requests
 
 # URL = "http://localhost:8000/mcp"
@@ -22,7 +24,7 @@
 
 
 
-
+# Second Step: Context Management with AsyncContextManager
 #-------------------------- Starting Session with AsyncExitStack
 
 
@@ -76,7 +78,7 @@
 
 
 
-# # ----------------------------- Fourth Step:
+# # ----------------------------- Third Step:
 
 
 
@@ -123,7 +125,7 @@
 
 
 
-
+# Fourth Step: Using AsyncExitStack for Context Management
 # ------------------------------------tool/list
 
 
